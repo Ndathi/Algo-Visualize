@@ -97,7 +97,7 @@ export default function App() {
                         Links:
                         <a
                             id="github-link"
-                            href="https://github.com/waitingonalice/VisualAlgo"
+                            href="https://github.com"
                         >
                             Github
                             <div id="gh-icon">
